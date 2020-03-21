@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://nuwaicieya.faktaoklimatu.cz/sitemap.xml
